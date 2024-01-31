@@ -1,15 +1,3 @@
-# ITCS 6100 Big Data Analytics for Competitive Advantage
-
-## Deliverable 1:
-
-### Group 18:<br>
-### Team Members:<br>
-Manasa Avula - 801307493<br>
-Nikhita Sai Boyidapu - 801327682<br>
-Srikar Chamarthy - 801317299<br>
-Rachana Gullipalli - 801311637<br>
-Aravind Pabbisetty - 801274519<br>
-
 ### Dataset Link: https://www.kaggle.com/datasets/jasfre/gcc-cyclistic-case-study-present-report-prompt
 ### Dataset Size: 3 GB
 The chosen dataset is of a bike sharing company based in chicago called Cyclistic. The  dataset consists of information of all the rides taken using different types of bikes by various citizens recently during the period of 12/2021 to 11/2022. The data is stored in CSV files where there is an individual CSV file present for trips taken each month.
